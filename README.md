@@ -1,6 +1,14 @@
-## This is Vine 2.0 👋
 <h1>Vine2.0</h1>
+<h2>Welcome to my prototype app</h2>
 
+<body>
+  <h1>This is a Header</h1>
+	<input type="text" id="newTask" placeholders="add a new task">
+	<button onClick="addTask()">Add Task</button>
+	<ul id-"tasklist"></ul>
+
+	<script src="script.js"></script>
+</body>
 
 <!--
 **lolboss909/lolboss909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
