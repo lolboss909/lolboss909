@@ -1,5 +1,6 @@
-## This is my new App 👋
-## will this pop up?
+## This is Vine 2.0 👋
+<h1>Vine2.0</h1>
+
 
 <!--
 **lolboss909/lolboss909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
